@@ -96,4 +96,9 @@ body{
     }
 }
 
+@media screen and (max-width: 435px){
+    .text{
+        margin-left: 10%;
+    }
+}
 
