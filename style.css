@@ -86,6 +86,13 @@ body{
     .box-social img {
         width: 70px;
     }
+    .icon{
+        margin: 0;
+    }
+    .text{
+        margin-left: 20%;
+        margin-right: auto;
+    }
     .avatar img{
         width: 160px;
         height: 160px;
